@@ -92,7 +92,7 @@ hr{
         color: #fff;
         font-size: 18px;
         margin-top: 20px;
-        margin-left: 20px;
+        margin-left: 30px;
     }
 
     
@@ -101,7 +101,7 @@ hr{
         width: 300px;
         height: 525px;
         margin-top: 300px;
-        margin-right: 20px;
+        margin-right: 40px;
         
     }
 
@@ -110,7 +110,7 @@ hr{
     }
 
     .btt, .btn{
-        margin-left: 120px;
+        margin-left: 125px;
         
     }
 
@@ -139,6 +139,6 @@ hr{
         padding-top: 50px;
         width: 300px;
         height: 500px;
-        margin-left: 30px ;
+        margin-left: 50px ;
     }
 }
